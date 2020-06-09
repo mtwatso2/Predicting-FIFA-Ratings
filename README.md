@@ -19,3 +19,5 @@ Note: codeC and codeR templates created by Dr. Casey Bennett: http://www.caseybe
 * Preprocess.py: python code used to merge tables, create variables, plots, etc.
 * shooting.csv: Shooting stats table
 * standardStats.csv: Standard Stats Table
+
+Data downloaded from: https://fbref.com/en/comps/9/1889/stats/2018-2019-Premier-League-Stats, https://wefut.com/player-database/20
