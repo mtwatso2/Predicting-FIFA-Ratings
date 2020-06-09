@@ -1,0 +1,552 @@
+﻿Name,Rtg,Pos,Club,League,Nationality,PAC,SHO,PAS,DRI,DEF,PHY,WF,Skill,AW,DW,Min,Max
+Kevin De Bruyne,91,CAM,Manchester City,Premier League,BEL,76,86,92,87,61,78,5★,4★,H,H,0,0
+Mohamed Salah,90,RW,Liverpool,Premier League,EGY,93,86,81,89,45,74,3★,4★,H,M,0,0
+Virgil van Dijk,90,CB,Liverpool,Premier League,NED,77,60,70,72,90,86,3★,2★,M,M,0,0
+N'Golo Kanté,89,CDM,Chelsea,Premier League,FRA,78,65,77,81,87,83,3★,2★,M,H,0,0
+Harry Kane,89,ST,Tottenham Hotspur,Premier League,ENG,70,91,79,81,47,83,4★,3★,H,H,0,0
+Sergio Agüero,89,ST,Manchester City,Premier League,ARG,80,90,77,88,33,74,4★,4★,H,M,0,0
+Sadio Mané,88,LW,Liverpool,Premier League,SEN,94,83,77,88,44,74,4★,4★,H,M,0,0
+Raheem Sterling,88,RW,Manchester City,Premier League,ENG,93,79,78,89,45,57,3★,4★,H,M,0,0
+Paul Pogba,88,CM,Manchester United,Premier League,FRA,74,81,86,85,66,86,4★,5★,H,M,0,0
+Christian Eriksen,88,CAM,Tottenham Hotspur,Premier League,DEN,73,81,90,84,53,63,5★,4★,H,H,0,0
+Pierre-Emerick Aubameyang,88,ST,Arsenal,Premier League,GAB,94,85,75,80,37,69,4★,4★,M,L,0,0
+David Silva,88,CAM,Manchester City,Premier League,ESP,65,74,88,89,52,57,2★,4★,H,M,0,0
+Bernardo Silva,87,RW,Manchester City,Premier League,POR,81,76,83,92,51,67,3★,4★,H,H,0,0
+Aymeric Laporte,87,CB,Manchester City,Premier League,FRA,64,50,71,69,88,82,3★,2★,M,M,0,0
+Heung Min Son,87,CF,Tottenham Hotspur,Premier League,KOR,88,86,80,87,42,68,5★,4★,H,H,0,0
+Toby Alderweireld,87,CB,Tottenham Hotspur,Premier League,BEL,64,55,72,67,88,79,3★,2★,M,M,0,0
+Jan Vertonghen,87,CB,Tottenham Hotspur,Premier League,BEL,63,63,74,73,87,79,3★,3★,H,H,0,0
+Fernandinho,87,CDM,Manchester City,Premier League,BRA,66,74,79,79,84,79,4★,3★,M,H,0,0
+Leroy Sané,86,LW,Manchester City,Premier League,GER,95,81,79,86,38,70,3★,4★,H,M,0,0
+Roberto Firmino,86,CF,Liverpool,Premier League,BRA,77,82,80,87,61,78,4★,4★,H,H,0,0
+Alexandre Lacazette,86,ST,Arsenal,Premier League,FRA,82,85,75,86,40,74,4★,4★,H,H,0,0
+Rodri,85,CDM,Manchester City,Premier League,ESP,67,68,77,78,82,80,4★,3★,M,H,0,0
+Andrew Robertson,85,LB,Liverpool,Premier League,SCO,85,62,77,79,80,75,2★,3★,H,H,0,0
+Fabinho,85,CDM,Liverpool,Premier League,BRA,68,69,78,77,85,83,2★,3★,M,H,0,0
+Dele Alli,84,CAM,Tottenham Hotspur,Premier League,ENG,72,81,79,82,71,79,3★,4★,H,H,0,0
+João Cancelo,84,RB,Manchester City,Premier League,POR,90,65,80,84,78,71,3★,4★,H,M,0,0
+Riyad Mahrez,84,RW,Manchester City,Premier League,ALG,84,78,79,89,38,59,4★,5★,M,M,0,0
+Felipe Anderson,84,LM,West Ham United,Premier League,BRA,89,77,79,88,55,61,4★,4★,H,M,0,0
+Kyle Walker,84,RB,Manchester City,Premier League,ENG,91,63,76,77,81,81,2★,2★,H,H,0,0
+İlkay Gündoğan,84,CM,Manchester City,Premier League,GER,66,74,84,84,72,71,4★,4★,H,M,0,0
+Azpilicueta,84,RB,Chelsea,Premier League,ESP,70,55,77,73,85,76,3★,2★,M,M,0,0
+Georginio Wijnaldum,84,CM,Liverpool,Premier League,NED,77,73,78,85,76,78,3★,4★,H,H,0,0
+Mesut Özil,84,CAM,Arsenal,Premier League,GER,70,72,86,84,24,56,2★,4★,M,L,0,0
+Sokratis,84,CB,Arsenal,Premier League,GRE,72,51,52,61,84,83,2★,2★,M,H,0,0
+João Moutinho,84,CM,Wolverhampton Wanderers,Premier League,POR,56,75,85,82,71,67,4★,3★,H,H,0,0
+Marcus Rashford,83,ST,Manchester United,Premier League,ENG,92,82,73,83,45,77,3★,5★,H,H,0,0
+Trent Alexander-Arnold,83,RB,Liverpool,Premier League,ENG,80,62,82,78,78,70,4★,3★,H,M,0,0
+Giovani Lo Celso,83,CM,Tottenham Hotspur,Premier League,ARG,77,78,82,84,65,72,3★,4★,H,M,0,0
+Nicolas Pépé,83,RM,Arsenal,Premier League,IVC,91,81,75,85,33,67,3★,4★,H,L,0,0
+Davinson Sánchez,83,CB,Tottenham Hotspur,Premier League,COL,74,45,57,67,83,81,3★,2★,M,H,0,0
+Anthony Martial,83,LW,Manchester United,Premier League,FRA,89,81,72,85,41,71,3★,4★,M,L,0,0
+Sébastien Haller,83,ST,West Ham United,Premier League,FRA,72,81,62,76,51,82,2★,3★,H,M,0,0
+Jorginho,83,CM,Chelsea,Premier League,ITA,55,63,84,81,70,73,3★,3★,M,M,0,0
+John Stones,83,CB,Manchester City,Premier League,ENG,68,36,70,72,84,77,4★,3★,H,M,0,0
+Lucas Moura,83,CF,Tottenham Hotspur,Premier League,BRA,92,79,76,87,42,66,4★,4★,H,M,0,0
+Lucas Digne,83,LB,Everton,Premier League,FRA,78,69,79,79,80,76,3★,3★,H,M,0,0
+Wilfried Zaha,83,CF,Crystal Palace,Premier League,IVC,91,76,72,87,27,74,3★,5★,H,L,0,0
+Nicolás Otamendi,83,CB,Manchester City,Premier League,ARG,56,57,63,61,83,78,3★,2★,M,H,0,0
+Gylfi Sigurðsson,83,CAM,Everton,Premier League,ICE,56,81,84,81,57,69,4★,3★,H,H,0,0
+Jordan Henderson,83,CDM,Liverpool,Premier League,ENG,64,70,83,77,78,80,3★,3★,H,H,0,0
+David Luiz,83,CB,Arsenal,Premier League,BRA,61,65,74,71,82,77,3★,3★,M,M,0,0
+Gabriel Jesus,82,ST,Manchester City,Premier League,BRA,85,80,72,86,39,71,3★,4★,H,H,0,0
+Rúben Neves,82,CM,Wolverhampton Wanderers,Premier League,POR,62,74,83,76,70,73,4★,3★,M,H,0,0
+Lucas Torreira,82,CDM,Arsenal,Premier League,URU,75,67,77,80,81,75,3★,3★,M,H,0,0
+Naby Keïta,82,CM,Liverpool,Premier League,GUI,71,73,76,88,65,66,4★,4★,H,M,0,0
+Ricardo Pereira,82,RB,Leicester City,Premier League,POR,86,64,77,81,79,73,4★,3★,H,H,0,0
+Jamie Vardy,82,ST,Leicester City,Premier League,ENG,88,81,65,75,55,75,3★,3★,H,H,0,0
+Jesse Lingard,82,CAM,Manchester United,Premier League,ENG,80,78,76,83,58,72,3★,4★,H,H,0,0
+Mateo Kovačić,82,CM,Chelsea,Premier League,CRO,76,68,81,86,67,70,4★,4★,H,H,0,0
+Antonio Rüdiger,82,CB,Chelsea,Premier League,GER,72,43,67,64,82,78,3★,2★,M,H,0,0
+Harry Maguire,82,CB,Manchester United,Premier League,ENG,50,53,64,70,81,84,3★,2★,H,H,0,0
+Joel Matip,82,CB,Liverpool,Premier League,CAM,61,46,68,67,83,76,2★,2★,M,M,0,0
+Xherdan Shaqiri,82,RW,Liverpool,Premier League,SUI,80,77,81,85,46,69,4★,5★,M,M,0,0
+Pedro,82,RW,Chelsea,Premier League,ESP,75,77,77,83,43,56,5★,4★,H,H,0,0
+Willian,82,RW,Chelsea,Premier League,BRA,85,78,80,85,49,60,4★,4★,H,H,0,0
+Olivier Giroud,82,ST,Chelsea,Premier League,FRA,46,81,71,73,42,79,3★,3★,M,M,0,0
+Juan Mata,82,CAM,Manchester United,Premier League,ESP,62,74,83,83,36,47,3★,4★,M,M,0,0
+Tanguy Ndombele,81,CM,Tottenham Hotspur,Premier League,FRA,80,65,78,87,70,78,3★,4★,M,M,0,0
+Wilfred Ndidi,81,CDM,Leicester City,Premier League,NIG,71,62,67,74,83,82,4★,3★,M,H,0,0
+Dani Ceballos,81,CM,Arsenal,Premier League,ESP,69,67,79,84,68,68,3★,4★,H,M,0,0
+Victor Lindelöf,81,CB,Manchester United,Premier League,SWE,74,50,72,73,82,78,4★,3★,M,H,0,0
+Abdoulaye Doucouré,81,CDM,Watford,Premier League,FRA,69,74,73,76,79,82,3★,3★,H,M,0,0
+Ryan Fraser,81,LM,Bournemouth,Premier League,SCO,90,73,78,83,46,61,4★,3★,H,M,0,0
+Luka Milivojević,81,CDM,Crystal Palace,Premier League,SRB,55,67,76,68,78,84,2★,2★,M,H,0,0
+Luke Shaw,81,LB,Manchester United,Premier League,ENG,82,54,75,80,80,78,2★,3★,H,M,0,0
+Granit Xhaka,81,CM,Arsenal,Premier League,SUI,51,67,81,71,69,78,3★,3★,M,M,0,0
+Marcos Alonso,81,LB,Chelsea,Premier League,ESP,66,73,79,77,79,79,3★,3★,H,L,0,0
+Nemanja Matić,81,CDM,Manchester United,Premier League,SRB,48,68,77,72,80,78,3★,3★,M,M,0,0
+Moussa Sissoko,81,CM,Tottenham Hotspur,Premier League,FRA,80,70,78,79,79,89,3★,3★,H,H,0,0
+James Milner,81,CM,Liverpool,Premier League,ENG,61,70,82,78,77,78,4★,3★,H,H,0,0
+Pablo Fornals,81,CAM,West Ham United,Premier League,ESP,67,76,79,80,71,68,3★,4★,H,M,0,0
+Eric Bailly,80,CB,Manchester United,Premier League,IVC,76,42,58,63,79,80,3★,3★,M,H,0,0
+Joe Gomez,80,CB,Liverpool,Premier League,ENG,81,30,64,68,79,76,3★,3★,M,M,0,0
+Harry Winks,80,CM,Tottenham Hotspur,Premier League,ENG,70,58,77,83,71,66,3★,3★,M,H,0,0
+Youri Tielemans,80,CM,Leicester City,Premier League,BEL,63,78,82,78,68,67,5★,4★,M,M,0,0
+Nathan Aké,80,CB,Bournemouth,Premier League,NED,75,53,70,72,81,77,3★,2★,M,H,0,0
+Bernard,80,LM,Everton,Premier League,BRA,87,69,76,85,38,44,4★,4★,H,M,0,0
+Benjamin Mendy,80,LB,Manchester City,Premier League,FRA,81,51,77,77,77,77,3★,3★,H,L,0,0
+Raúl Jiménez,80,ST,Wolverhampton Wanderers,Premier League,MEX,78,78,71,75,47,79,4★,3★,H,H,0,0
+Kurt Zouma,80,CB,Chelsea,Premier League,FRA,64,51,59,56,78,83,3★,2★,M,M,0,0
+Héctor Bellerín,80,RB,Arsenal,Premier League,ESP,92,51,70,77,76,66,3★,3★,H,L,0,0
+Deulofeu,80,RF,Watford,Premier League,ESP,88,73,75,87,30,56,4★,4★,H,L,0,0
+Alex Oxlade-Chamberlain,80,CM,Liverpool,Premier League,ENG,82,73,78,83,66,73,4★,4★,H,H,0,0
+Callum Wilson,80,ST,Bournemouth,Premier League,ENG,87,78,67,77,39,75,3★,4★,H,M,0,0
+Manuel Lanzini,80,CAM,West Ham United,Premier League,ARG,77,72,78,85,32,50,3★,4★,M,M,0,0
+Erik Lamela,80,RM,Tottenham Hotspur,Premier League,ARG,75,77,79,82,51,72,2★,4★,H,H,0,0
+Danny Rose,80,LB,Tottenham Hotspur,Premier League,ENG,77,62,74,79,80,75,3★,3★,M,H,0,0
+Miguel Almirón,80,LW,Newcastle United,Premier League,PAR,89,74,76,81,48,63,2★,4★,H,H,0,0
+Diogo Jota,80,LF,Wolverhampton Wanderers,Premier League,POR,83,77,70,84,53,76,5★,4★,H,H,0,0
+Andreas Christensen,80,CB,Chelsea,Premier League,DEN,68,31,63,69,82,72,3★,2★,L,M,0,0
+André Gomes,80,CDM,Everton,Premier League,POR,65,71,78,80,73,80,4★,4★,M,M,0,0
+Michael Keane,80,CB,Everton,Premier League,ENG,60,49,62,66,80,79,3★,2★,M,H,0,0
+Dejan Lovren,80,CB,Liverpool,Premier League,CRO,54,40,59,63,80,78,4★,2★,M,H,0,0
+Roberto Pereyra,80,LM,Watford,Premier League,ARG,75,73,79,83,61,67,4★,4★,H,M,0,0
+Etienne Capoue,80,CDM,Watford,Premier League,FRA,52,71,74,73,78,77,3★,3★,M,M,0,0
+Mbwana Ally Samatta,79,ST,Aston Villa,Premier League,TAN,85,78,66,73,32,74,4★,3★,H,H,0,0
+Wesley,79,ST,Aston Villa,Premier League,BRA,77,76,68,73,38,88,3★,3★,H,H,0,0
+Richarlison,79,RM,Everton,Premier League,BRA,84,77,72,81,45,79,5★,4★,H,M,0,0
+Aaron Wan-Bissaka,79,RB,Manchester United,Premier League,ENG,87,50,63,78,80,72,2★,4★,M,H,0,0
+Christian Pulisic,79,LW,Chelsea,Premier League,USA,90,68,70,83,36,58,4★,4★,M,M,0,0
+James Maddison,79,CAM,Leicester City,Premier League,ENG,75,72,82,79,39,57,4★,4★,H,M,0,0
+Angeliño,79,LB,Manchester City,Premier League,ESP,85,64,79,80,72,78,3★,4★,H,M,0,0
+Allan Saint-Maximin,79,RW,Newcastle United,Premier League,FRA,93,70,70,86,23,63,4★,5★,H,L,0,0
+Jean-Philippe Gbamin,79,CDM,Everton,Premier League,IVC,80,57,73,74,78,83,3★,3★,M,H,0,0
+Sead Kolašinac,79,LB,Arsenal,Premier League,BOS,75,62,72,72,75,87,2★,3★,H,M,0,0
+Leandro Trossard,79,LW,Brighton & Hove Albion,Premier League,BEL,83,80,76,82,30,62,4★,4★,H,M,0,0
+James Ward-Prowse,79,CM,Southampton,Premier League,ENG,60,71,85,77,62,64,3★,3★,M,M,0,0
+Michy Batshuayi,79,ST,Chelsea,Premier League,BEL,76,79,58,78,33,72,5★,4★,M,L,0,0
+Willy Boly,79,CB,Wolverhampton Wanderers,Premier League,FRA,64,35,62,62,78,82,4★,2★,M,M,0,0
+Eric Dier,79,CDM,Tottenham Hotspur,Premier League,ENG,54,63,71,65,80,84,3★,2★,M,H,0,0
+Andriy Yarmolenko,79,RM,West Ham United,Premier League,UKR,68,80,78,81,42,70,2★,4★,H,M,0,0
+Joshua King,79,CF,Bournemouth,Premier League,NOR,88,79,69,79,38,75,3★,4★,M,M,0,0
+Mamadou Sakho,79,CB,Crystal Palace,Premier League,FRA,53,33,65,57,78,83,2★,2★,M,H,0,0
+Ben Chilwell,79,LB,Leicester City,Premier League,ENG,78,49,71,77,76,75,3★,3★,H,H,0,0
+Fabián Balbuena,79,CB,West Ham United,Premier League,PAR,56,40,52,52,80,79,3★,2★,M,M,0,0
+Jefferson Lerma,79,CDM,Bournemouth,Premier League,COL,73,64,72,73,78,80,4★,3★,M,H,0,0
+Ruben Loftus-Cheek,79,CM,Chelsea,Premier League,ENG,70,67,76,80,62,79,3★,4★,H,M,0,0
+Alex Iwobi,79,LM,Everton,Premier League,NIG,80,64,74,82,28,68,3★,4★,H,M,0,0
+Jonny,79,LWB,Wolverhampton Wanderers,Premier League,ESP,77,52,70,75,78,70,3★,4★,H,H,0,0
+Fabian Schär,79,CB,Newcastle United,Premier League,SUI,62,66,71,69,80,75,4★,2★,H,H,0,0
+Fred,79,CM,Manchester United,Premier League,BRA,76,73,75,80,74,69,4★,4★,H,H,0,0
+Ben Davies,79,LB,Tottenham Hotspur,Premier League,WAL,73,58,75,75,78,74,3★,3★,M,H,0,0
+James Tarkowski,79,CB,Burnley,Premier League,ENG,58,45,66,64,79,78,4★,2★,M,M,0,0
+Ross Barkley,79,CAM,Chelsea,Premier League,ENG,70,73,77,80,56,73,5★,4★,M,M,0,0
+Serge Aurier,79,RB,Tottenham Hotspur,Premier League,IVC,77,59,73,76,77,76,3★,3★,H,M,0,0
+Phil Jones,79,CB,Manchester United,Premier League,ENG,55,51,61,58,78,76,3★,2★,M,H,0,0
+Shkodran Mustafi,79,CB,Arsenal,Premier League,GER,60,57,63,62,77,77,3★,2★,M,H,0,0
+Jack Wilshere,79,CM,West Ham United,Premier League,ENG,64,68,80,81,63,66,2★,3★,M,M,0,0
+Adam Lallana,79,CM,Liverpool,Premier League,ENG,67,71,79,82,62,65,5★,4★,H,H,0,0
+Séamus Coleman,79,RB,Everton,Premier League,IRL,74,65,73,77,79,71,3★,3★,H,H,0,0
+Jonny Evans,79,CB,Leicester City,Premier League,NIR,56,32,59,55,80,75,4★,2★,M,H,0,0
+Victor Wanyama,78,CDM,Tottenham Hotspur,Premier League,KEN,51,65,67,70,79,82,3★,2★,L,H,0,0
+Troy Deeney,78,ST,Watford,Premier League,ENG,57,79,67,71,37,85,3★,2★,H,M,0,0
+Ismaïla Sarr,78,RM,Watford,Premier League,SEN,94,77,68,80,22,64,2★,4★,H,M,0,0
+Oleksandr Zinchenko,78,LB,Manchester City,Premier League,UKR,71,66,80,79,77,66,3★,3★,M,M,0,0
+Divock Origi,78,ST,Liverpool,Premier League,BEL,82,76,67,75,27,74,4★,4★,H,M,0,0
+Leander Dendoncker,78,CM,Wolverhampton Wanderers,Premier League,BEL,67,72,77,71,78,83,4★,2★,H,H,0,0
+Max Meyer,78,CM,Crystal Palace,Premier League,GER,67,62,79,83,65,65,4★,4★,M,M,0,0
+Jannik Vestergaard,78,CB,Southampton,Premier League,DEN,34,49,61,49,80,77,4★,2★,M,M,0,0
+Pascal Groß,78,CM,Brighton & Hove Albion,Premier League,GER,58,72,82,74,60,72,4★,4★,H,H,0,0
+Michail Antonio,78,RM,West Ham United,Premier League,ENG,85,72,73,78,56,82,3★,4★,M,M,0,0
+Ashley Barnes,78,ST,Burnley,Premier League,ENG,62,78,68,74,47,81,4★,3★,H,H,0,0
+Danny Welbeck,78,ST,Watford,Premier League,ENG,77,74,70,76,43,74,3★,3★,H,H,0,0
+Jose Holebas,78,LB,Watford,Premier League,GRE,69,65,75,74,76,76,2★,3★,H,M,0,0
+James Tomkins,78,CB,Crystal Palace,Premier League,ENG,41,32,57,55,80,75,3★,2★,M,M,0,0
+Ryan Bertrand,78,LB,Southampton,Premier League,ENG,76,53,70,76,76,70,3★,3★,H,M,0,0
+Declan Rice,78,CDM,West Ham United,Premier League,ENG,62,37,64,68,77,77,3★,2★,M,H,0,0
+Issa Diop,78,CB,West Ham United,Premier League,FRA,67,36,52,56,79,79,3★,2★,M,M,0,0
+Joelinton,78,ST,Newcastle United,Premier League,BRA,78,75,60,76,43,81,4★,3★,H,M,0,0
+Yerry Mina,78,CB,Everton,Premier League,COL,51,54,55,57,78,80,3★,2★,M,M,0,0
+Ayoze Pérez,78,CF,Leicester City,Premier League,ESP,76,75,67,81,54,66,4★,4★,H,H,0,0
+Ibrahim Amadou,78,CDM,Norwich City,Premier League,FRA,71,55,66,71,76,81,3★,3★,M,H,0,0
+Jamaal Lascelles,78,CB,Newcastle United,Premier League,ENG,59,28,51,58,78,80,3★,2★,M,H,0,0
+Marcos Rojo,78,CB,Manchester United,Premier League,ARG,67,59,68,65,76,76,2★,3★,M,M,0,0
+Matt Doherty,78,RWB,Wolverhampton Wanderers,Premier League,IRL,74,63,71,73,74,78,4★,3★,H,M,0,0
+Lewis Dunk,78,CB,Brighton & Hove Albion,Premier League,ENG,46,40,55,61,78,77,3★,2★,M,H,0,0
+Florian Lejeune,78,CB,Newcastle United,Premier League,FRA,49,57,61,66,78,79,3★,2★,M,H,0,0
+Andros Townsend,78,RM,Crystal Palace,Premier League,ENG,78,77,75,79,38,69,4★,4★,H,H,0,0
+Steve Cook,78,CB,Bournemouth,Premier League,ENG,53,34,55,61,78,75,3★,2★,M,H,0,0
+Shane Duffy,78,CB,Brighton & Hove Albion,Premier League,IRL,47,45,51,49,78,80,3★,2★,M,H,0,0
+Jóhann Berg Guðmundsson,78,RM,Burnley,Premier League,ICE,75,74,78,77,61,70,4★,4★,H,H,0,0
+Nathaniel Clyne,78,RB,Liverpool,Premier League,ENG,71,61,70,77,77,69,2★,3★,H,M,0,0
+Christian Kabasele,78,CB,Watford,Premier League,BEL,70,50,51,62,78,77,3★,2★,M,H,0,0
+Ben Mee,78,CB,Burnley,Premier League,ENG,61,42,58,62,79,80,3★,2★,M,H,0,0
+Dominic Calvert-Lewin,77,ST,Everton,Premier League,ENG,84,70,63,75,38,79,3★,3★,H,M,0,0
+Sofiane Boufal,77,LM,Southampton,Premier League,MOR,78,67,71,86,27,52,4★,4★,H,L,0,0
+Conor Coady,77,CB,Wolverhampton Wanderers,Premier League,ENG,47,59,73,66,78,74,3★,2★,L,H,0,0
+Theo Walcott,77,RM,Everton,Premier League,ENG,87,72,70,78,39,61,3★,3★,M,M,0,0
+Cenk Tosun,77,ST,Crystal Palace,Premier League,TUR,71,77,66,73,36,73,4★,3★,H,M,0,0
+Ondrej Duda,77,CAM,Norwich City,Premier League,SVK,69,75,73,80,55,62,4★,4★,M,H,0,0
+Nabil Bentaleb,77,CM,Newcastle United,Premier League,ALG,65,71,75,79,67,74,2★,4★,M,M,0,0
+Danny Drinkwater,77,CM,Aston Villa,Premier League,ENG,59,66,76,75,71,68,4★,3★,M,M,0,0
+Patrick Cutrone,77,ST,Wolverhampton Wanderers,Premier League,ITA,73,74,56,74,29,69,3★,3★,M,M,0,0
+Scott McTominay,77,CDM,Manchester United,Premier League,SCO,61,65,72,72,74,80,3★,3★,H,H,0,0
+Trezeguet,77,LW,Aston Villa,Premier League,EGY,84,74,73,79,35,65,5★,4★,H,M,0,0
+Vallejo,77,CB,Wolverhampton Wanderers,Premier League,ESP,71,41,55,63,77,67,3★,2★,L,H,0,0
+Lewis Cook,77,CM,Bournemouth,Premier League,ENG,70,63,75,78,66,69,4★,3★,M,M,0,0
+Jan Bednarek,77,CB,Southampton,Premier League,POL,62,22,52,56,78,74,3★,2★,M,H,0,0
+David Brooks,77,RM,Bournemouth,Premier League,WAL,75,71,75,79,48,66,4★,4★,M,M,0,0
+Pierre-Emile Højbjerg,77,CM,Southampton,Premier League,DEN,61,70,74,74,73,79,4★,3★,H,H,0,0
+Emerson,77,LB,Chelsea,Premier League,ITA,79,59,68,78,74,62,3★,3★,H,M,0,0
+Andreas Pereira,77,CM,Manchester United,Premier League,BRA,73,74,78,78,66,69,4★,4★,M,M,0,0
+Romain Saïss,77,CDM,Wolverhampton Wanderers,Premier League,MOR,62,53,70,69,76,74,3★,3★,M,H,0,0
+Jack Grealish,77,CAM,Aston Villa,Premier League,ENG,75,66,74,80,41,59,3★,4★,M,M,0,0
+Will Hughes,77,RM,Watford,Premier League,ENG,64,64,78,78,68,64,3★,4★,M,M,0,0
+Djibril Sidibé,77,RB,Everton,Premier League,FRA,77,62,74,74,73,79,4★,3★,H,M,0,0
+Marco van Ginkel,77,CM,Chelsea,Premier League,NED,64,77,77,75,70,70,4★,3★,H,H,0,0
+Nathan Redmond,77,LM,Southampton,Premier League,ENG,84,71,71,81,27,52,3★,4★,H,M,0,0
+Davy Pröpper,77,CM,Brighton & Hove Albion,Premier League,NED,62,70,73,76,67,75,3★,4★,M,H,0,0
+Cenk Tosun,77,ST,Everton,Premier League,TUR,71,77,66,73,36,73,4★,3★,H,M,0,0
+Chris Wood,77,ST,Burnley,Premier League,NZL,70,76,59,69,40,79,3★,2★,H,M,0,0
+Teemu Pukki,77,ST,Norwich City,Premier League,FIN,77,75,58,75,33,69,3★,3★,H,M,0,0
+Ashley Westwood,77,CM,Burnley,Premier League,ENG,60,60,79,74,74,76,3★,3★,M,M,0,0
+Jonjo Shelvey,77,CM,Newcastle United,Premier League,ENG,62,72,79,73,62,74,3★,3★,L,M,0,0
+Daryl Janmaat,77,RB,Watford,Premier League,NED,67,65,73,75,75,74,3★,3★,H,M,0,0
+Danny Drinkwater,77,CM,Burnley,Premier League,ENG,59,66,76,75,71,68,4★,3★,M,M,0,0
+Angelo Ogbonna,77,CB,West Ham United,Premier League,ITA,58,39,58,60,79,74,3★,2★,M,M,0,0
+Fabian Delph,77,LB,Everton,Premier League,ENG,69,70,76,79,73,74,3★,3★,M,H,0,0
+Morgan Schneiderlin,77,CDM,Everton,Premier League,FRA,56,60,71,71,75,76,3★,3★,L,H,0,0
+Glenn Murray,77,ST,Brighton & Hove Albion,Premier League,ENG,31,78,61,68,42,72,3★,2★,L,M,0,0
+Gary Cahill,77,CB,Crystal Palace,Premier League,ENG,41,58,51,57,78,74,3★,2★,M,M,0,0
+Ashley Young,77,RB,Manchester United,Premier League,ENG,70,66,74,75,73,71,3★,4★,H,M,0,0
+Phil Foden,76,CAM,Manchester City,Premier League,ENG,74,64,74,79,55,55,3★,4★,M,M,0,0
+Tammy Abraham,76,ST,Chelsea,Premier League,ENG,74,74,57,69,31,68,3★,3★,M,M,0,0
+Kieran Tierney,76,LB,Arsenal,Premier League,SCO,88,59,70,74,71,81,3★,3★,H,H,0,0
+Marvelous Nakamba,76,CDM,Aston Villa,Premier League,ZIM,74,49,63,72,75,82,2★,3★,M,H,0,0
+DeAndre Yedlin,76,RWB,Newcastle United,Premier League,USA,92,51,65,75,71,70,3★,3★,H,M,0,0
+Arthur Masuaku,76,LB,West Ham United,Premier League,DRC,86,63,72,80,70,70,2★,4★,H,M,0,0
+Andre Gray,76,ST,Watford,Premier League,ENG,86,75,62,73,30,72,3★,3★,H,M,0,0
+Cheikhou Kouyaté,76,CDM,Crystal Palace,Premier League,SEN,69,65,61,69,76,85,3★,3★,H,M,0,0
+Patrick van Aanholt,76,LB,Crystal Palace,Premier League,NED,87,68,70,76,72,71,4★,3★,H,L,0,0
+Ignacio Pussetto,76,ST,Watford,Premier League,ARG,80,74,62,77,25,65,4★,3★,H,M,0,0
+Gedson Fernandes,76,CM,Tottenham Hotspur,Premier League,POR,79,70,73,76,71,77,3★,3★,H,H,0,0
+Filip Benković,76,CB,Leicester City,Premier League,CRO,64,46,56,57,75,82,3★,2★,M,M,0,0
+Moise Kean,76,ST,Everton,Premier League,ITA,81,72,50,77,30,68,3★,3★,M,M,0,0
+Arnaut Danjuma Groeneveld,76,LM,Bournemouth,Premier League,NED,82,73,71,79,42,67,4★,4★,H,M,0,0
+Rob Holding,76,CB,Arsenal,Premier League,ENG,60,34,59,65,77,73,3★,2★,M,H,0,0
+Frédéric Guilbert,76,RB,Aston Villa,Premier League,FRA,73,47,66,68,76,75,2★,3★,H,M,0,0
+Camarasa,76,CM,Crystal Palace,Premier League,ESP,63,73,74,75,69,73,3★,3★,H,M,0,0
+José Izquierdo,76,LW,Brighton & Hove Albion,Premier League,COL,86,69,67,80,38,53,3★,4★,H,H,0,0
+Björn Engels,76,CB,Aston Villa,Premier League,BEL,60,44,61,57,75,76,3★,2★,M,M,0,0
+Isaac Hayden,76,CDM,Newcastle United,Premier League,ENG,58,55,64,68,74,76,4★,2★,M,H,0,0
+Dwight Gayle,76,ST,Newcastle United,Premier League,ENG,81,77,58,73,28,61,4★,3★,M,M,0,0
+Charlie Taylor,76,LB,Burnley,Premier League,ENG,71,54,71,74,75,76,2★,3★,H,M,0,0
+Federico Fernández,76,CB,Newcastle United,Premier League,ARG,48,28,50,51,77,74,2★,2★,M,H,0,0
+Robbie Brady,76,LM,Burnley,Premier League,IRL,72,72,76,76,66,63,3★,4★,H,M,0,0
+Ravel Morrison,76,CAM,Sheffield United,Premier League,ENG,78,69,75,78,50,57,4★,3★,M,L,0,0
+Cédric,76,RB,Southampton,Premier League,POR,77,66,70,75,73,70,4★,3★,H,M,0,0
+Dennis Praet,76,CM,Leicester City,Premier League,BEL,69,70,77,78,61,64,4★,4★,H,M,0,0
+Oriol Romeu,76,CDM,Southampton,Premier League,ESP,45,39,63,63,77,77,3★,2★,L,H,0,0
+Danny Ings,76,ST,Southampton,Premier League,ENG,75,74,64,76,32,66,3★,3★,H,H,0,0
+Aaron Mooy,76,CM,Brighton & Hove Albion,Premier League,AUS,59,69,77,73,69,74,3★,3★,M,M,0,0
+Montoya,76,RB,Brighton & Hove Albion,Premier League,ESP,77,61,71,72,73,69,4★,3★,H,M,0,0
+Adam Smith,76,RB,Bournemouth,Premier League,ENG,71,60,71,74,75,69,3★,3★,H,M,0,0
+Kiko Femenía,76,RB,Watford,Premier League,ESP,75,58,71,78,73,68,3★,3★,H,M,0,0
+Tom Cleverley,76,CM,Watford,Premier League,ENG,64,69,75,73,61,62,3★,3★,H,M,0,0
+Aaron Cresswell,76,LB,West Ham United,Premier League,ENG,71,59,73,75,74,67,3★,3★,H,M,0,0
+Marc Albrighton,76,RM,Leicester City,Premier League,ENG,70,68,75,76,59,69,3★,3★,H,H,0,0
+Dale Stephens,76,CM,Brighton & Hove Albion,Premier League,ENG,57,64,74,70,71,78,3★,3★,M,H,0,0
+Craig Cathcart,76,CB,Watford,Premier League,NIR,40,37,57,55,77,73,3★,2★,M,H,0,0
+Ki Sung Yueng,76,CM,Newcastle United,Premier League,KOR,58,72,79,74,64,69,4★,4★,M,H,0,0
+Winston Reid,76,CB,West Ham United,Premier League,NZL,52,52,48,50,77,73,3★,2★,L,H,0,0
+James McArthur,76,CM,Crystal Palace,Premier League,SCO,60,65,72,73,71,75,3★,3★,H,H,0,0
+Jay Rodriguez,76,ST,Burnley,Premier League,ENG,72,74,68,72,41,68,4★,3★,H,M,0,0
+Jack Cork,76,CM,Burnley,Premier League,ENG,47,62,73,71,76,80,4★,3★,M,H,0,0
+Robert Snodgrass,76,RM,West Ham United,Premier League,SCO,61,74,77,77,47,71,3★,3★,H,M,0,0
+Mark Noble,76,CM,West Ham United,Premier League,ENG,41,67,76,73,72,70,3★,3★,H,H,0,0
+Phil Jagielka,76,CB,Sheffield United,Premier League,ENG,46,44,57,54,77,65,3★,2★,M,H,0,0
+Takumi Minamino,75,RM,Liverpool,Premier League,JAP,89,72,67,79,41,65,4★,3★,M,M,0,0
+Lukas Rupp,75,CM,Norwich City,Premier League,GER,65,67,75,77,66,63,3★,3★,M,M,0,0
+Mattéo Guendouzi,75,CM,Arsenal,Premier League,FRA,71,62,73,73,69,74,3★,3★,M,H,0,0
+Yves Bissouma,75,CM,Brighton & Hove Albion,Premier League,MAL,74,65,72,76,73,70,3★,4★,H,M,0,0
+Ryan Sessegnon,75,LM,Tottenham Hotspur,Premier League,ENG,87,67,68,75,64,62,3★,4★,H,M,0,0
+Harvey Barnes,75,LW,Leicester City,Premier League,ENG,78,69,71,76,45,57,4★,3★,H,M,0,0
+Diogo Dalot,75,RB,Manchester United,Premier League,POR,80,60,71,77,70,77,3★,3★,H,M,0,0
+Mason Mount,75,CAM,Chelsea,Premier League,ENG,71,68,74,76,46,53,4★,3★,H,M,0,0
+Bernardo,75,LB,Brighton & Hove Albion,Premier League,BRA,70,49,62,67,76,72,3★,3★,M,M,0,0
+Tom Davies,75,CM,Everton,Premier League,ENG,66,62,73,75,65,69,3★,3★,H,M,0,0
+Yoshinori Mutō,75,ST,Newcastle United,Premier League,JAP,77,72,68,78,41,62,4★,3★,H,H,0,0
+Ainsley Maitland-Niles,75,RWB,Arsenal,Premier League,ENG,85,59,70,76,68,67,3★,4★,M,M,0,0
+Mason Holgate,75,RB,Everton,Premier League,ENG,70,42,66,66,76,71,3★,3★,M,M,0,0
+Harry Wilson,75,RW,Bournemouth,Premier League,WAL,79,76,72,74,40,49,3★,3★,H,M,0,0
+Demarai Gray,75,LW,Leicester City,Premier League,ENG,88,67,67,80,37,55,3★,4★,H,M,0,0
+Alireza Jahanbakhsh,75,RW,Brighton & Hove Albion,Premier League,IRN,79,73,69,79,42,70,4★,4★,M,M,0,0
+Neal Maupay,75,ST,Brighton & Hove Albion,Premier League,FRA,75,73,66,72,41,69,3★,3★,M,M,0,0
+John McGinn,75,CM,Aston Villa,Premier League,SCO,73,66,71,75,70,78,4★,3★,H,H,0,0
+Solly March,75,LM,Brighton & Hove Albion,Premier League,ENG,77,68,72,77,50,60,2★,3★,H,H,0,0
+Jetro Willems,75,LWB,Newcastle United,Premier League,NED,74,62,76,76,71,76,4★,3★,H,L,0,0
+Calum Chambers,75,CDM,Arsenal,Premier League,ENG,63,49,65,68,74,76,3★,2★,L,H,0,0
+Nathaniel Chalobah,75,CDM,Watford,Premier League,ENG,64,61,70,74,72,71,3★,3★,M,M,0,0
+Paul Dummett,75,CB,Newcastle United,Premier League,WAL,66,40,63,67,76,72,2★,2★,M,M,0,0
+Stuart Armstrong,75,CAM,Southampton,Premier League,SCO,75,73,72,74,64,72,4★,3★,H,H,0,0
+Jeff Hendrick,75,RM,Burnley,Premier League,IRL,68,68,74,75,70,75,3★,3★,M,H,0,0
+Matthew Lowton,75,RB,Burnley,Premier League,ENG,67,61,73,72,75,74,3★,2★,H,H,0,0
+Nampalys Mendy,75,CDM,Leicester City,Premier League,FRA,69,55,70,74,73,71,3★,3★,L,H,0,0
+Josip Drmić,75,ST,Norwich City,Premier League,SUI,76,75,67,73,38,70,4★,3★,M,M,0,0
+Jordan Ayew,75,ST,Crystal Palace,Premier League,GHA,76,74,70,75,45,72,3★,4★,M,M,0,0
+Craig Dawson,75,CB,Watford,Premier League,ENG,62,43,58,60,75,77,2★,2★,M,M,0,0
+Maya Yoshida,75,CB,Southampton,Premier League,JAP,55,41,51,63,76,72,4★,2★,M,H,0,0
+Junior Stanislas,75,LM,Bournemouth,Premier League,ENG,75,70,73,75,36,55,3★,3★,H,M,0,0
+James McCarthy,75,CDM,Crystal Palace,Premier League,IRL,58,60,73,73,74,65,4★,3★,M,H,0,0
+Matt Ritchie,75,LWB,Newcastle United,Premier League,SCO,73,74,76,76,65,69,4★,4★,H,M,0,0
+Oliver Norwood,75,CM,Sheffield United,Premier League,NIR,57,66,78,68,70,62,3★,2★,M,M,0,0
+Dan Gosling,75,CM,Bournemouth,Premier League,ENG,55,68,73,70,70,69,3★,3★,M,H,0,0
+Christian Benteke,75,ST,Crystal Palace,Premier League,BEL,58,74,61,65,32,72,3★,2★,M,L,0,0
+Martin Kelly,75,CB,Crystal Palace,Premier League,ENG,50,44,60,62,75,71,3★,2★,L,M,0,0
+Ciaran Clark,75,CB,Newcastle United,Premier League,IRL,52,52,53,55,76,73,2★,2★,M,M,0,0
+Carlos Sánchez,75,CDM,West Ham United,Premier League,COL,60,58,70,68,74,73,3★,3★,M,M,0,0
+Andy Carroll,75,ST,Newcastle United,Premier League,ENG,44,77,61,67,44,80,3★,2★,M,H,0,0
+Adrian Mariappa,75,CB,Watford,Premier League,JAM,55,34,57,62,76,70,3★,2★,M,M,0,0
+Andrew Surman,75,CM,Bournemouth,Premier League,ENG,52,65,75,70,66,66,4★,3★,L,M,0,0
+Leighton Baines,75,LB,Everton,Premier League,ENG,56,68,77,76,76,59,3★,3★,H,M,0,0
+Scott Dann,75,CB,Crystal Palace,Premier League,ENG,32,40,48,49,76,65,3★,2★,L,M,0,0
+Pablo Zabaleta,75,RB,West Ham United,Premier League,ARG,49,56,70,72,79,70,3★,3★,M,H,0,0
+Wes Morgan,75,CB,Leicester City,Premier League,JAM,29,34,41,55,76,72,2★,2★,M,H,0,0
+Simon Francis,75,CB,Bournemouth,Premier League,ENG,51,44,67,64,75,71,4★,2★,M,M,0,0
+Dwight McNeil,74,LM,Burnley,Premier League,ENG,77,66,71,75,50,66,3★,3★,H,H,0,0
+Callum Hudson-Odoi,74,RW,Chelsea,Premier League,ENG,85,64,67,80,30,60,3★,4★,H,M,0,0
+Moussa Djenepo,74,LM,Southampton,Premier League,MAL,88,67,64,79,36,64,3★,3★,M,M,0,0
+Juan Foyth,74,CB,Tottenham Hotspur,Premier League,ARG,70,45,66,72,74,70,3★,3★,M,H,0,0
+Douglas Luiz,74,CM,Aston Villa,Premier League,BRA,67,67,72,74,69,70,2★,3★,M,M,0,0
+Çağlar Söyüncü,74,CB,Leicester City,Premier League,TUR,63,45,52,59,74,74,4★,2★,M,M,0,0
+Hamza Choudhury,74,CDM,Leicester City,Premier League,ENG,70,44,61,66,76,75,3★,2★,M,H,0,0
+Kyle Walker-Peters,74,RB,Tottenham Hotspur,Premier League,ENG,76,37,66,72,72,66,4★,3★,H,M,0,0
+Emiliano Buendía,74,RM,Norwich City,Premier League,ARG,73,66,74,77,61,62,3★,3★,H,H,0,0
+Che Adams,74,ST,Southampton,Premier League,ENG,86,75,61,73,39,76,4★,3★,H,M,0,0
+Adam Masina,74,LB,Watford,Premier League,ITA,68,42,67,68,73,73,3★,3★,M,H,0,0
+Albian Ajeti,74,ST,West Ham United,Premier League,SUI,78,72,60,70,29,75,4★,3★,H,M,0,0
+Patrick Roberts,74,RM,Norwich City,Premier League,ENG,77,66,69,82,27,41,3★,4★,M,M,0,0
+Philip Billing,74,CM,Bournemouth,Premier League,DEN,58,70,72,71,74,73,3★,3★,M,M,0,0
+Diego Rico,74,LB,Bournemouth,Premier League,ESP,72,58,69,67,73,73,2★,3★,M,M,0,0
+Oliver McBurnie,74,ST,Sheffield United,Premier League,SCO,67,71,57,68,34,72,2★,3★,M,L,0,0
+Anwar El Ghazi,74,LW,Aston Villa,Premier League,NED,76,75,68,75,32,69,4★,4★,M,L,0,0
+Adama Traoré,74,RW,Wolverhampton Wanderers,Premier League,ESP,96,60,61,83,31,75,2★,4★,H,M,0,0
+Tyrone Mings,74,CB,Aston Villa,Premier League,ENG,69,44,63,65,73,78,3★,3★,M,M,0,0
+Jack O'Connell,74,CB,Sheffield United,Premier League,ENG,63,37,50,55,73,78,2★,2★,H,M,0,0
+Manquillo,74,RWB,Newcastle United,Premier League,ESP,73,44,63,71,71,66,3★,3★,H,M,0,0
+Emil Krafth,74,RB,Newcastle United,Premier League,SWE,73,52,66,70,74,71,3★,3★,H,M,0,0
+Adam Webster,74,CB,Brighton & Hove Albion,Premier League,ENG,68,29,55,66,73,73,4★,2★,M,M,0,0
+Christian Atsu,74,LM,Newcastle United,Premier League,GHA,86,67,68,77,34,45,3★,3★,M,L,0,0
+Ryan Fredericks,74,RB,West Ham United,Premier League,ENG,92,51,66,72,69,69,3★,3★,H,M,0,0
+John Egan,74,CB,Sheffield United,Premier League,IRL,65,49,50,59,73,76,3★,2★,M,M,0,0
+Dimitri Foulquier,74,RM,Watford,Premier League,FRA,73,60,68,75,72,73,3★,3★,M,M,0,0
+Jack Stephens,74,CB,Southampton,Premier League,ENG,61,42,58,67,74,71,3★,2★,M,M,0,0
+Jeffrey Schlupp,74,LM,Crystal Palace,Premier League,GHA,86,67,66,73,69,75,2★,3★,H,M,0,0
+Ben Gibson,74,CB,Burnley,Premier League,ENG,59,29,48,52,75,71,3★,2★,M,M,0,0
+Timm Klose,74,CB,Norwich City,Premier League,SUI,37,38,54,39,75,75,3★,2★,M,M,0,0
+Conor Hourihane,74,CM,Aston Villa,Premier League,IRL,65,69,75,69,65,74,4★,3★,H,M,0,0
+Marvin Zeegelaar,74,LB,Watford,Premier League,NED,70,62,67,72,73,74,3★,3★,H,M,0,0
+Enda Stevens,74,LWB,Sheffield United,Premier League,IRL,70,45,63,69,72,73,2★,3★,M,M,0,0
+Leon Balogun,74,CB,Brighton & Hove Albion,Premier League,NIG,57,45,60,60,74,72,3★,2★,M,M,0,0
+James Chester,74,CB,Aston Villa,Premier League,WAL,66,34,58,63,74,74,3★,2★,M,M,0,0
+Henri Saivet,74,CAM,Newcastle United,Premier League,SEN,68,70,74,75,64,64,4★,3★,H,H,0,0
+Gaëtan Bong,74,LB,Brighton & Hove Albion,Premier League,CAM,63,41,69,70,76,71,3★,3★,H,H,0,0
+Shane Long,74,ST,Southampton,Premier League,IRL,80,72,61,71,36,69,2★,3★,H,H,0,0
+Billy Sharp,74,ST,Sheffield United,Premier League,ENG,58,74,62,65,42,68,3★,2★,M,H,0,0
+Aaron Lennon,74,RM,Burnley,Premier League,ENG,79,63,69,78,49,58,3★,3★,H,H,0,0
+Axel Tuanzebe,73,CB,Manchester United,Premier League,ENG,78,35,61,70,71,74,3★,3★,M,M,0,0
+Kelechi Iheanacho,73,ST,Leicester City,Premier League,NIG,78,71,64,74,28,67,3★,4★,M,M,0,0
+Isaac Success,73,ST,Watford,Premier League,NIG,75,69,65,75,35,66,3★,3★,M,M,0,0
+Daniel Amartey,73,RB,Leicester City,Premier League,GHA,67,55,65,69,75,76,3★,3★,M,H,0,0
+Oumar Niasse,73,ST,Everton,Premier League,SEN,73,72,55,71,29,69,3★,3★,H,M,0,0
+Callum Robinson,73,ST,Sheffield United,Premier League,IRL,85,72,65,74,34,60,3★,3★,H,M,0,0
+Jordon Ibe,73,RM,Bournemouth,Premier League,ENG,78,66,68,78,41,61,4★,3★,M,M,0,0
+Tom Trybull,73,CDM,Norwich City,Premier League,GER,61,48,66,67,73,74,3★,3★,M,H,0,0
+Moritz Leitner,73,CM,Norwich City,Premier League,GER,69,65,74,74,59,58,4★,3★,M,M,0,0
+Matěj Vydra,73,CAM,Burnley,Premier League,CZ,81,74,67,73,35,59,4★,3★,M,M,0,0
+Kevin Long,73,CB,Burnley,Premier League,IRL,52,35,50,56,73,74,2★,2★,L,M,0,0
+Ezequiel Schelotto,73,RB,Brighton & Hove Albion,Premier League,ITA,67,61,68,72,71,73,3★,3★,H,M,0,0
+Marco Stiepermann,73,CAM,Norwich City,Premier League,GER,66,72,70,72,64,77,2★,3★,M,M,0,0
+John Fleck,73,CM,Sheffield United,Premier League,SCO,72,64,73,75,66,74,2★,3★,M,M,0,0
+Joel Ward,73,RB,Crystal Palace,Premier League,ENG,58,52,66,66,76,71,3★,3★,M,H,0,0
+Ryan Bennett,73,CB,Wolverhampton Wanderers,Premier League,ENG,35,25,46,36,74,74,2★,2★,L,M,0,0
+Erik Pieters,73,LB,Burnley,Premier League,NED,66,40,69,69,73,78,3★,3★,M,H,0,0
+Mario Vrančić,73,CM,Norwich City,Premier League,BOS,55,70,73,73,59,70,3★,3★,M,M,0,0
+Sebastian Prödl,73,CB,Watford,Premier League,AT,31,36,50,41,74,70,2★,2★,M,M,0,0
+Charlie Daniels,73,LB,Bournemouth,Premier League,ENG,63,61,72,72,74,64,3★,3★,H,M,0,0
+Luke Freeman,73,CAM,Sheffield United,Premier League,ENG,75,67,72,74,52,60,3★,3★,M,M,0,0
+Christian Fuchs,73,LB,Leicester City,Premier League,AT,49,67,76,70,75,68,2★,3★,M,M,0,0
+Reece James,73,RB,Chelsea,Premier League,ENG,79,57,69,71,70,75,3★,3★,M,M,0,0
+Chris Mepham,73,CB,Bournemouth,Premier League,WAL,62,33,53,61,72,73,3★,2★,H,H,0,0
+Timothy Fosu-Mensah,73,RB,Manchester United,Premier League,NED,83,60,64,66,71,76,4★,3★,M,M,0,0
+Jota,73,RW,Aston Villa,Premier League,ESP,69,68,72,75,31,58,2★,3★,H,L,0,0
+Onel Hernández,73,LM,Norwich City,Premier League,GER,85,70,63,76,33,71,3★,4★,H,M,0,0
+Jonathan Kodjia,73,ST,Aston Villa,Premier League,IVC,77,70,57,73,27,73,3★,3★,H,M,0,0
+Chris Basham,73,CB,Sheffield United,Premier League,ENG,66,43,57,59,72,79,2★,2★,H,M,0,0
+Tudor Băluță,72,CDM,Brighton & Hove Albion,Premier League,ROM,62,50,58,52,69,75,2★,2★,M,H,0,0
+Max Aarons,72,RB,Norwich City,Premier League,ENG,83,41,60,73,70,64,3★,3★,H,M,0,0
+Fikayo Tomori,72,CB,Chelsea,Premier League,ENG,80,35,55,66,71,71,3★,2★,M,M,0,0
+Daniel James,72,LM,Manchester United,Premier League,WAL,94,61,63,73,27,57,4★,3★,H,M,0,0
+Reiss Nelson,72,RW,Arsenal,Premier League,ENG,88,65,60,78,34,47,4★,4★,H,M,0,0
+Jaïro Riedewald,72,CB,Crystal Palace,Premier League,NED,64,51,68,68,72,66,3★,3★,M,M,0,0
+Ben Osborn,72,LWB,Sheffield United,Premier League,ENG,76,64,70,72,64,60,3★,3★,H,M,0,0
+Phil Bardsley,72,RB,Burnley,Premier League,SCO,51,58,66,68,75,72,3★,3★,M,M,0,0
+Mix Diskerud,72,CM,Manchester City,Premier League,USA,69,69,72,70,57,71,4★,3★,H,M,0,0
+Beram Kayal,72,CM,Brighton & Hove Albion,Premier League,ISR,64,61,70,72,69,70,3★,3★,H,H,0,0
+Christoph Zimmermann,72,CB,Norwich City,Premier League,GER,53,33,43,46,72,78,3★,2★,M,H,0,0
+Sean Longstaff,72,CM,Newcastle United,Premier League,ENG,63,65,68,67,60,60,4★,2★,H,M,0,0
+Jamal Lewis,72,LB,Norwich City,Premier League,NIR,79,51,60,71,70,66,3★,3★,H,M,0,0
+Matt Targett,72,LB,Aston Villa,Premier League,ENG,72,42,69,69,70,64,2★,3★,H,M,0,0
+Sam Byram,72,RB,Norwich City,Premier League,ENG,71,60,66,72,70,68,3★,3★,H,M,0,0
+Kenny McLean,72,CM,Norwich City,Premier League,SCO,74,69,68,73,60,70,3★,3★,H,H,0,0
+Muhamed Bešić,72,CM,Sheffield United,Premier League,BOS,63,54,67,74,70,74,3★,3★,M,H,0,0
+Michael Hector,72,CB,Chelsea,Premier League,JAM,64,47,51,59,71,76,3★,2★,M,M,0,0
+David McGoldrick,72,ST,Sheffield United,Premier League,IRL,66,71,67,72,33,67,3★,3★,M,M,0,0
+Dan Burn,71,CB,Brighton & Hove Albion,Premier League,ENG,44,33,53,48,70,77,3★,2★,L,M,0,0
+Alexander Tettey,71,CDM,Norwich City,Premier League,NOR,64,64,64,63,71,76,2★,2★,M,H,0,0
+Lewis Baker,71,CM,Chelsea,Premier League,ENG,68,67,72,71,63,66,5★,3★,M,L,0,0
+Kevin Danso,71,CB,Southampton,Premier League,AT,61,32,42,53,70,74,3★,2★,M,M,0,0
+Ben Godfrey,71,CB,Norwich City,Premier League,ENG,74,44,58,64,68,77,3★,2★,M,H,0,0
+Lys Mousset,71,ST,Sheffield United,Premier League,FRA,77,70,53,71,25,61,3★,3★,M,M,0,0
+Bartosz Kapustka,71,LM,Leicester City,Premier League,POL,76,62,68,72,37,53,3★,3★,M,M,0,0
+Jack Colback,71,CDM,Newcastle United,Premier League,ENG,61,59,67,67,67,67,2★,3★,H,H,0,0
+Rúben Vinagre,70,LWB,Wolverhampton Wanderers,Premier League,POR,88,54,65,78,60,59,2★,4★,H,M,0,0
+Ezri Konsa,70,CB,Aston Villa,Premier League,ENG,76,38,58,69,68,70,3★,2★,M,H,0,0
+Connor Wickham,70,ST,Crystal Palace,Premier League,ENG,49,72,61,65,30,71,3★,3★,H,M,0,0
+Ahmed Elmohamady,70,RB,Aston Villa,Premier League,EGY,69,64,70,69,66,72,3★,3★,H,M,0,0
+Jack Robinson,70,LB,Sheffield United,Premier League,ENG,72,40,60,63,71,66,3★,2★,H,H,0,0
+Konstantinos Mavropanos,70,CB,Arsenal,Premier League,GRE,55,33,44,46,70,75,2★,2★,M,H,0,0
+Morgan Gibbs-White,70,CM,Wolverhampton Wanderers,Premier League,ENG,72,61,69,72,56,64,2★,4★,M,M,0,0
+Dominic Solanke,70,ST,Bournemouth,Premier League,ENG,66,69,60,70,27,69,3★,3★,H,M,0,0
+Jack Stacey,70,RB,Bournemouth,Premier League,ENG,76,54,65,69,66,70,3★,2★,H,M,0,0
+Philip Heise,70,LB,Norwich City,Premier League,GER,76,61,66,68,64,75,3★,3★,M,M,0,0
+Cuco Martina,70,RB,Everton,Premier League,NEA,63,52,65,64,70,73,3★,2★,M,M,0,0
+Grant Hanley,70,CB,Norwich City,Premier League,SCO,51,34,47,45,71,71,3★,2★,L,M,0,0
+Henri Lansbury,70,CM,Aston Villa,Premier League,ENG,58,68,70,68,59,70,3★,3★,M,M,0,0
+Neil Taylor,70,LB,Aston Villa,Premier League,WAL,68,39,65,69,69,66,3★,3★,M,H,0,0
+Leon Clarke,70,ST,Sheffield United,Premier League,ENG,61,69,56,63,30,77,4★,2★,M,M,0,0
+Cameron Carter-Vickers,69,CB,Tottenham Hotspur,Premier League,USA,63,23,51,51,68,69,3★,2★,M,M,0,0
+Yan Valery,69,RWB,Southampton,Premier League,FRA,71,48,57,65,69,71,3★,3★,H,H,0,0
+Domingos Quina,69,CAM,Watford,Premier League,POR,72,63,63,72,43,50,3★,3★,M,M,0,0
+James Justin,69,RB,Leicester City,Premier League,ENG,76,47,66,68,66,66,4★,3★,H,M,0,0
+George Baldock,69,RWB,Sheffield United,Premier League,ENG,78,43,59,67,64,74,2★,3★,M,M,0,0
+Richard Stearman,69,CB,Sheffield United,Premier League,ENG,47,38,47,48,68,70,3★,2★,M,M,0,0
+Eddie Nketiah,68,ST,Arsenal,Premier League,ENG,84,66,51,71,20,60,3★,3★,H,M,0,0
+Gabriel Martinelli,68,LW,Arsenal,Premier League,BRA,85,62,59,71,25,55,2★,2★,M,M,0,0
+Angel Gomes,68,CAM,Manchester United,Premier League,ENG,73,62,66,71,39,42,4★,4★,M,M,0,0
+Lloyd Kelly,68,LB,Bournemouth,Premier League,ENG,77,35,58,67,65,71,3★,3★,M,M,0,0
+Dennis Srbeny,68,ST,Norwich City,Premier League,GER,68,63,54,64,32,71,3★,3★,H,M,0,0
+Todd Cantwell,68,LM,Norwich City,Premier League,ENG,70,61,65,71,36,46,2★,3★,H,M,0,0
+Kortney Hause,68,CB,Aston Villa,Premier League,ENG,63,45,56,55,67,72,3★,2★,M,M,0,0
+Kieron Freeman,68,RWB,Sheffield United,Premier League,WAL,69,56,61,65,65,67,3★,3★,M,M,0,0
+Matty James,68,CM,Leicester City,Premier League,ENG,52,60,69,67,67,65,3★,3★,M,M,0,0
+Mason Greenwood,67,CF,Manchester United,Premier League,ENG,76,66,61,68,36,59,5★,3★,M,M,0,0
+Oliver Skipp,67,CDM,Tottenham Hotspur,Premier League,ENG,63,45,63,63,62,62,3★,2★,M,H,0,0
+Jack Clarke,67,RM,Tottenham Hotspur,Premier League,ENG,78,60,61,71,25,55,4★,3★,M,M,0,0
+Josh Sims,67,RM,Southampton,Premier League,ENG,80,60,61,72,31,47,4★,3★,H,M,0,0
+Gonçalo Cardoso,67,CB,West Ham United,Premier League,POR,52,29,38,49,65,73,3★,2★,L,M,0,0
+Beni Baningime,67,CDM,Everton,Premier League,DRC,55,46,64,65,65,61,3★,2★,M,M,0,0
+Joseph Willock,67,CM,Arsenal,Premier League,ENG,73,53,64,67,54,66,3★,3★,H,M,0,0
+Herbie Kane,67,CM,Liverpool,Premier League,ENG,71,59,63,65,55,60,3★,3★,M,M,0,0
+Jack Simpson,67,CB,Bournemouth,Premier League,ENG,56,37,50,54,66,71,2★,2★,M,M,0,0
+Xande Silva,67,RM,West Ham United,Premier League,POR,75,61,58,72,27,58,3★,3★,H,M,0,0
+John Lundstram,67,CM,Sheffield United,Premier League,ENG,65,58,64,62,68,71,5★,2★,M,H,0,0
+Ricky Holmes,67,LM,Sheffield United,Premier League,ENG,74,62,63,69,28,63,3★,3★,M,M,0,0
+Bright Enobakhare,66,CAM,Wolverhampton Wanderers,Premier League,NIG,80,57,58,75,27,60,3★,4★,M,M,0,0
+Eric García,66,CB,Manchester City,Premier League,ESP,58,34,53,59,65,64,3★,2★,L,H,0,0
+Sepp van den Berg,66,CB,Liverpool,Premier League,NED,68,30,55,63,65,66,3★,2★,M,M,0,0
+Jorge Segura,66,CB,Watford,Premier League,COL,46,29,38,38,67,72,3★,2★,M,M,0,0
+Louis Thompson,66,CM,Norwich City,Premier League,WAL,64,50,63,65,65,70,3★,3★,H,H,0,0
+Pedro Neto,66,RF,Wolverhampton Wanderers,Premier League,POR,78,62,53,72,22,41,3★,3★,H,M,0,0
+Demetri Mitchell,66,LB,Manchester United,Premier League,ENG,82,61,66,69,59,60,2★,3★,H,H,0,0
+Pedro Chirivella,66,CM,Liverpool,Premier League,ESP,65,46,64,67,57,69,3★,3★,M,M,0,0
+Sam McQueen,66,LB,Southampton,Premier League,ENG,68,48,62,69,64,65,3★,3★,M,M,0,0
+Martin Samuelsen,65,ST,West Ham United,Premier League,NOR,75,54,58,72,29,51,4★,4★,M,M,0,0
+Bukayo Saka,65,LM,Arsenal,Premier League,ENG,83,60,58,67,37,59,4★,3★,H,H,0,0
+Emile Smith Rowe,65,LW,Arsenal,Premier League,ENG,79,63,59,68,32,47,3★,4★,H,M,0,0
+Tahith Chong,65,RW,Manchester United,Premier League,NED,78,62,63,63,44,62,3★,4★,H,H,0,0
+Sam Surridge,65,ST,Bournemouth,Premier League,ENG,63,64,43,62,27,71,3★,2★,H,M,0,0
+Brad Smith,65,LB,Bournemouth,Premier League,AUS,78,43,58,64,62,64,3★,2★,H,M,0,0
+Japhet Tanganga,65,CB,Tottenham Hotspur,Premier League,ENG,63,22,43,51,64,66,3★,2★,M,M,0,0
+Keinan Davis,65,ST,Aston Villa,Premier League,ENG,69,59,51,67,41,73,2★,3★,M,M,0,0
+George Thomas,65,CAM,Leicester City,Premier League,WAL,77,61,61,66,36,64,3★,3★,H,M,0,0
+Phil Ofosu-Ayeh,65,RB,Wolverhampton Wanderers,Premier League,GHA,81,47,56,66,62,71,3★,3★,M,M,0,0
+Jordan Graham,65,LM,Wolverhampton Wanderers,Premier League,ENG,77,58,61,69,27,47,5★,4★,M,L,0,0
+Ellis Simms,64,ST,Everton,Premier League,ENG,77,64,50,59,25,58,4★,3★,H,M,0,0
+Troy Parrott,64,ST,Tottenham Hotspur,Premier League,IRL,76,64,53,62,26,58,4★,3★,H,M,0,0
+Rhian Brewster,64,ST,Liverpool,Premier League,ENG,77,63,53,64,19,55,4★,3★,H,M,0,0
+Aaron Connolly,64,ST,Brighton & Hove Albion,Premier League,IRL,70,64,40,60,20,57,3★,2★,M,L,0,0
+Morgan Feeney,64,CB,Everton,Premier League,ENG,47,32,33,39,64,67,2★,2★,L,H,0,0
+Kean Bryan,64,CB,Sheffield United,Premier League,ENG,62,51,58,61,61,71,2★,2★,M,M,0,0
+Renat Dadashov,64,ST,Wolverhampton Wanderers,Premier League,AZE,64,64,48,58,24,61,3★,3★,M,M,0,0
+Kazaiah Sterling,63,ST,Tottenham Hotspur,Premier League,ENG,76,65,41,62,23,49,2★,3★,M,M,0,0
+Michael Obafemi,63,ST,Southampton,Premier League,IRL,79,61,49,62,23,50,3★,2★,H,L,0,0
+Zech Medley,63,CB,Arsenal,Premier League,ENG,62,30,38,47,64,64,3★,2★,M,H,0,0
+Víctor Fernández,63,LM,Newcastle United,Premier League,ESP,71,60,56,68,29,46,3★,3★,H,M,0,0
+Manasse Mampala,63,ST,Everton,Premier League,ENG,76,59,52,62,33,61,3★,3★,M,M,0,0
+Adam Idah,63,ST,Norwich City,Premier League,IRL,75,64,38,58,21,62,3★,2★,H,M,0,0
+James Garner,63,CDM,Manchester United,Premier League,ENG,63,54,61,59,61,60,3★,2★,M,H,0,0
+Meritan Shabani,63,CAM,Wolverhampton Wanderers,Premier League,GER,65,52,63,65,34,54,3★,3★,M,M,0,0
+Aidan Barlow,62,LM,Manchester United,Premier League,ENG,70,60,63,63,41,56,3★,3★,M,M,0,0
+Felix Nmecha,62,CAM,Manchester City,Premier League,ENG,75,54,61,62,45,55,3★,4★,H,M,0,0
+Ki-Jana Hoever,62,RB,Liverpool,Premier League,NED,72,36,57,64,61,62,3★,2★,M,M,0,0
+Billy Gilmour,62,CM,Chelsea,Premier League,SCO,59,50,65,65,45,42,3★,3★,M,M,0,0
+Liam Millar,62,LW,Liverpool,Premier League,CAN,75,59,51,65,22,54,3★,3★,H,M,0,0
+Josh Benson,62,CM,Burnley,Premier League,ENG,68,54,61,62,54,64,3★,2★,M,M,0,0
+Matthew Longstaff,62,CM,Newcastle United,Premier League,ENG,66,50,64,62,49,53,3★,2★,H,M,0,0
+Alex Dobre,62,LM,Bournemouth,Premier League,ROM,75,51,53,66,37,61,3★,3★,H,M,0,0
+Callum Slattery,62,CAM,Southampton,Premier League,ENG,60,58,57,61,43,64,3★,2★,M,M,0,0
+Benny Ashley-Seal,62,ST,Wolverhampton Wanderers,Premier League,ENG,76,58,43,58,24,60,3★,3★,H,M,0,0
+Adam Phillips,62,CM,Burnley,Premier League,ENG,64,55,61,65,42,55,3★,3★,M,M,0,0
+Layton Ndukwu,61,RM,Leicester City,Premier League,ENG,73,57,54,64,28,54,5★,3★,M,M,0,0
+Kyle Taylor,61,CM,Bournemouth,Premier League,ENG,68,54,59,63,41,50,3★,3★,M,M,0,0
+Nathaniel Phillips,61,CB,Liverpool,Premier League,ENG,51,29,43,39,60,63,3★,2★,L,H,0,0
+Jacob Maddox,61,CAM,Chelsea,Premier League,ENG,70,56,57,63,34,53,3★,3★,H,M,0,0
+Aidan Fitzpatrick,61,RM,Norwich City,Premier League,SCO,77,56,56,64,32,48,4★,2★,H,M,0,0
+Kayne Ramsay,61,RB,Southampton,Premier League,ENG,70,33,44,59,58,63,2★,2★,M,M,0,0
+Curtis Jones,61,CM,Liverpool,Premier League,ENG,61,56,60,65,48,53,3★,3★,H,M,0,0
+Nathan Holland,61,LM,West Ham United,Premier League,ENG,78,51,54,65,26,45,4★,3★,H,M,0,0
+Jamie Sterry,61,RB,Newcastle United,Premier League,ENG,64,36,52,60,60,64,3★,2★,H,M,0,0
+Max Kilman,60,CB,Wolverhampton Wanderers,Premier League,ENG,64,41,52,60,56,69,4★,2★,M,M,0,0
+Benjamín Garré,60,LW,Manchester City,Premier League,ARG,73,55,53,65,32,46,3★,4★,M,M,0,0
+John Kitolano,60,LWB,Wolverhampton Wanderers,Premier League,NOR,79,37,51,60,52,58,3★,2★,H,M,0,0
+Elias Sørensen,60,ST,Newcastle United,Premier League,DEN,64,62,44,57,18,49,3★,2★,H,M,0,0
+Paul Glatzel,60,ST,Liverpool,Premier League,GER,68,60,51,59,30,49,3★,3★,M,M,0,0
+Adam Lewis,60,LB,Liverpool,Premier League,ENG,66,36,57,59,57,58,2★,2★,M,M,0,0
+Ali Koiki,60,LB,Burnley,Premier League,ENG,78,34,48,58,55,63,2★,3★,M,M,0,0
+Bruno Jordão,60,CM,Wolverhampton Wanderers,Premier League,POR,55,50,58,67,44,57,3★,3★,M,M,0,0
+Matt Butcher,60,CM,Bournemouth,Premier League,ENG,63,49,56,60,57,64,3★,2★,M,H,0,0
+Marcus Barnes,60,ST,Southampton,Premier League,ENG,63,59,48,58,23,58,3★,3★,M,M,0,0
+Ryan Giles,59,LWB,Wolverhampton Wanderers,Premier League,ENG,89,50,56,63,48,55,3★,3★,H,M,0,0
+Kelland Watts,59,CB,Newcastle United,Premier League,ENG,53,48,52,54,57,58,4★,2★,H,M,0,0
+David Parkhouse,59,ST,Sheffield United,Premier League,NIR,71,58,45,53,34,59,2★,2★,M,M,0,0
+Yasser Larouci,59,LB,Liverpool,Premier League,ALG,74,47,52,62,56,56,2★,2★,H,M,0,0
+Jamie Bowden,59,CDM,Tottenham Hotspur,Premier League,ENG,63,46,57,57,58,50,3★,2★,M,H,0,0
+James Daly,59,ST,Crystal Palace,Premier League,ENG,76,57,43,58,22,45,2★,2★,M,M,0,0
+Daniel Adshead,59,CM,Norwich City,Premier League,ENG,73,49,58,57,47,52,2★,2★,H,M,0,0
+Nya Kirby,59,CAM,Crystal Palace,Premier League,ENG,74,45,57,63,36,51,2★,3★,M,M,0,0
+Luke Dreher,59,CM,Crystal Palace,Premier League,ENG,63,47,57,59,46,58,3★,2★,M,M,0,0
+Jason Lokilo,58,RM,Crystal Palace,Premier League,DRC,77,53,52,66,27,51,3★,2★,M,M,0,0
+Luke McCormick,58,CM,Chelsea,Premier League,SCO,75,45,55,61,47,61,2★,2★,M,M,0,0
+Giovanni McGregor,58,CM,Crystal Palace,Premier League,ENG,66,43,57,56,51,59,3★,2★,M,M,0,0
+Conor Coventry,58,CM,West Ham United,Premier League,IRL,58,41,56,60,48,53,3★,2★,M,M,0,0
+Kian Flanagan,58,CAM,Crystal Palace,Premier League,IRL,68,47,55,60,39,48,3★,3★,M,M,0,0
+Mésaque Djú,58,RM,West Ham United,Premier League,POR,76,53,47,59,28,58,2★,2★,M,M,0,0
+Timi Odusina,58,CB,Norwich City,Premier League,ENG,56,27,37,37,59,61,2★,2★,M,M,0,0
+Oskar Buur Rasmussen,58,RWB,Wolverhampton Wanderers,Premier League,DEN,70,32,52,62,51,51,3★,3★,H,M,0,0
+Joe Powell,58,LM,West Ham United,Premier League,ENG,73,43,54,59,48,54,3★,3★,H,M,0,0
+Josh Grant,57,RB,Chelsea,Premier League,ENG,64,30,45,50,57,64,3★,2★,M,H,0,0
+Rob Nizet,57,LB,Norwich City,Premier League,BEL,69,37,43,54,57,53,2★,2★,H,M,0,0
+Sam Woods,57,CB,Crystal Palace,Premier League,ENG,42,25,35,37,57,58,2★,2★,M,M,0,0
+Robbie Burton,57,CAM,Arsenal,Premier League,WAL,59,46,57,57,40,44,3★,3★,M,M,0,0
+Dan Kemp,57,RM,West Ham United,Premier League,ENG,70,47,50,63,27,34,3★,3★,H,M,0,0
+Ryan Cooney,57,RB,Burnley,Premier League,ENG,59,50,56,56,55,55,3★,2★,M,M,0,0
+Jake Vokins,57,LB,Southampton,Premier League,ENG,70,36,44,59,55,57,3★,2★,H,M,0,0
+Tom Dele-Bashiru,57,CM,Watford,Premier League,NIG,63,49,53,60,51,59,2★,2★,M,M,0,0
+Liam Gibson,56,LB,Newcastle United,Premier League,ENG,69,35,43,54,53,58,3★,2★,H,M,0,0
+Owen Bailey,56,CDM,Newcastle United,Premier League,ENG,54,30,51,48,55,60,3★,2★,M,H,0,0
+Dion Sanderson,56,CB,Wolverhampton Wanderers,Premier League,ENG,72,40,47,53,53,66,3★,2★,M,M,0,0
+Tyreece John-Jules,56,ST,Arsenal,Premier League,ENG,73,54,46,56,19,54,3★,3★,M,M,0,0
+Tyreke Wilson,56,LB,Manchester City,Premier League,IRL,66,32,45,55,52,49,2★,2★,M,M,0,0
+Steven Alzate,56,CM,Brighton & Hove Albion,Premier League,ENG,66,50,54,61,35,51,3★,3★,M,M,0,0
+Akin Famewo,55,CB,Norwich City,Premier League,ENG,75,21,32,38,52,66,3★,2★,L,M,0,0
+Taylor Perry,55,CM,Wolverhampton Wanderers,Premier League,ENG,72,51,53,57,47,57,3★,2★,H,M,0,0
+Ben Johnson,55,RB,West Ham United,Premier League,ENG,67,29,44,54,52,52,3★,2★,H,M,0,0
+Nikola Tavares,55,CB,Crystal Palace,Premier League,CRO,45,28,31,34,55,58,3★,2★,M,M,0,0
+Easah Suliman,55,CB,Aston Villa,Premier League,ENG,53,32,41,44,53,60,3★,2★,M,H,0,0
+Jack Clarke,54,CDM,Aston Villa,Premier League,IRL,62,37,53,53,51,49,3★,2★,M,M,0,0
+Jacob Ramsey,53,CAM,Aston Villa,Premier League,ENG,60,38,55,53,40,46,3★,2★,H,L,0,0
+Callum Rowe,52,CM,Aston Villa,Premier League,ENG,63,38,51,54,43,52,3★,2★,M,M,0,0
+Jarrad Branthwaite,49,CB,Everton,Premier League,ENG,59,19,27,27,48,55,2★,2★,L,H,0,0
