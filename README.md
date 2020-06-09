@@ -1,6 +1,8 @@
 # Predicting-FIFA-Ratings
 Predicting FIFA 20 Ultimate Team Ratings for EPL players using data from the 2018-19 season as well as FIFA 19 ratings
 
+* Project.docx: tables containing results from various models for both classifciation and regression
+* Report.docx: project report 
 * codeC.py: code used for Classification Models
 * codeR.py: code used for Regression Models
 * fifaC.csv: data for Classification Models
